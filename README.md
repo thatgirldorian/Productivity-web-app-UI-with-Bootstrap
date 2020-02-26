@@ -6,6 +6,14 @@ It also has pricing and contact pages.
 
 I particularly love how clean it looks.
 
+<h3>Technology Used:</h3>
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Bootstrap 4
+
 <h3>Screenshots:</h3>
 
 ![screenshot1](https://user-images.githubusercontent.com/40691059/75192370-62856480-5754-11ea-95c6-90902ca32a99.PNG)
