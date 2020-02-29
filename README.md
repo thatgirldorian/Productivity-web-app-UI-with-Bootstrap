@@ -14,6 +14,10 @@ I particularly love how clean it looks.
 - GitHub
 - Bootstrap 4
 
+<h3>Link to site:</h3>
+
+https://kind-heisenberg-af8b33.netlify.com/
+
 <h3>Screenshots:</h3>
 
 ![screenshot1](https://user-images.githubusercontent.com/40691059/75192370-62856480-5754-11ea-95c6-90902ca32a99.PNG)
